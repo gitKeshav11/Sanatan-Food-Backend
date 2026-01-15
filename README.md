@@ -143,14 +143,23 @@ Contributions are welcome!
 Feel free to **fork**, **raise issues**, or **submit pull requests**.
 
 ---
+## 👨‍💻 Author & Contributors
+## 📞 Contact
 
-## 👨‍💻 Author
+### **Keshav Upadhyay**  
+**Role:** Backend Developer (Java & Spring Boot)  
+📧 Email: [keshavupadhyayje@gmail.com](mailto:keshavupadhyayje@gmail.com)  
+🔗 LinkedIn: [Keshav Upadhyay](https://www.linkedin.com/in/keshavupadhyayje/)  
+🐙 GitHub: [gitKeshav11](https://github.com/gitKeshav11)  
 
-**Keshav Upadhyay**
-Software Developer | Java & Full‑Stack Enthusiast
+### **Jyoti Singh**  
+**Role:** Frontend Support / Collaborator  
+📧 Email: [kumarijyotije@gmail.com](mailto:kumarijyotije@gmail.com)  
+🔗 LinkedIn: [Jyoti Singh](https://www.linkedin.com/in/jyotisinghje/)  
+🐙 GitHub: [Jyotisingh133](https://github.com/Jyotisingh133)  
 
+---
 📌 *Building real‑world, scalable backend systems.*
-
 ---
 
 ⭐ If you like this project, don’t forget to **star the repository**!
