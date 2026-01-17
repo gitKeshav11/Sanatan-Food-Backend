@@ -90,7 +90,6 @@ spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
-
 ### 3️⃣ Run the Application
 
 ```bash
