@@ -13,7 +13,6 @@ This project is designed with **clean architecture**, **scalable APIs**, and **r
 ## 🚀 Project Overview
 
 
-
 **Sanatan Food Backend** powers the core server‑side functionality of a food delivery system, including:
 
 * Restaurant & menu management
