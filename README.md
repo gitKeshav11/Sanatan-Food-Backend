@@ -1,6 +1,4 @@
 # 🍽️ Sanatan Food – Backend API
-
-
 <p align="center">
   <img src="assets/sanatan-food-banner.png" alt="Sanatan Food Banner" width="100%" />
 </p>
